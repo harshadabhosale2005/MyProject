@@ -1,0 +1,23 @@
+button{
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    margin: 5px;
+}
+
+
+#gree{
+    background-color: green;
+    
+}
+
+
+#re{
+    background-color: red;
+}
+
+#blu{
+    background-color: blue;
+}
+
+
